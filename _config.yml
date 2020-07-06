@@ -1,0 +1,40 @@
+# site settings
+title: Bhavik
+subtitle: homepage
+email: bhaviksuthar2000@gmail.com
+description: Challenges are what make life interesting and <br> overcoming them is what makes life meaningful.
+url: https://Bhavik2442.github.io
+baseurl: ''
+author:
+
+street_address: Room 223, Hostel 6, IIT Bombay
+city: Powai
+state: MH
+zip_code: 400076
+country: India
+phone: +91 7728928362
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/bhavik.suthar.5623
+github_url: https://github.com/Bhavik2442
+gitlab_url:
+googleplus_url:
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/bhavik-suthar-59a228162/
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+pulgins:
+  'jekyll-watch'
